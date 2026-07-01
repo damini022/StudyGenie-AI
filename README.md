@@ -16,6 +16,14 @@ An AI-powered Study Assistant built using **Python, Streamlit, and Google Gemini
 - 💻 Interactive Streamlit UI
 
 ---
+## 📸 Application Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (1042)" src="https://github.com/user-attachments/assets/30104a4d-319b-4523-849e-aec1948e33ba" />
+
+
+<img width="1920" height="1080" alt="Screenshot (1043)" src="https://github.com/user-attachments/assets/0f9ca5c8-1afc-4aba-99b9-70c80975178c" />
+<img width="1920" height="1080" alt="Screenshot (1044)" src="https://github.com/user-attachments/assets/e372376c-175a-4dbd-a602-cfaa63a936e3" />
+
 
 ## 🛠️ Tech Stack
 
